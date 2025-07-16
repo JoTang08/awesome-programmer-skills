@@ -66,3 +66,11 @@ ngrok http  http://localhost:5000
 ngrok 官网：https://ngrok.com/
 
 官方文档：https://ngrok.com/docs
+
+### 五、成功案例
+
+```bash
+ngrok http  http://localhost:59671
+```
+
+![alt text](ngrok-success-load.png)
